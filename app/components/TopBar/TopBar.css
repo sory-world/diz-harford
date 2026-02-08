@@ -1,0 +1,23 @@
+.top-bar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 0.8rem 3rem;
+  justify-content: space-between;
+  background-color: #fff;
+  align-self: flex-start;
+  width: 100%;
+
+  .top-bar__icon {
+    font-weight: 600;
+    font-size: 1.6rem;
+  }
+
+  .top-bar__links {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+  }
+}
