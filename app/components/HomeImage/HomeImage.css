@@ -1,0 +1,7 @@
+.image__container {
+  display: flex;
+
+  .image {
+    width: 40rem;
+  }
+}
