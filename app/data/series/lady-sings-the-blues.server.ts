@@ -1,0 +1,55 @@
+import { CollectionItem } from "~/types/CollectionItem"
+
+const items: CollectionItem[] = [  {
+    catalogNo: "DHA-014",
+    fileName: 5635,
+    title: "Strange Fruit",
+    date: 1989,
+    series: "Lady Sings the Blues",
+    medium: "acrylic on canvas ",
+    dimensions: "76 × 61 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-032",
+    fileName: 5589,
+    title: "Lady Sings The Blues",
+    date: 1986,
+    series: "Lady Sings the Blues",
+    medium: "acrylic on canvas ",
+    dimensions: "91 × 66 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-036",
+    fileName: 5531,
+    title: "Lady in Satin",
+    date: 1999,
+    series: "Lady Sings the Blues",
+    medium: "acrylic on canvas ",
+    dimensions: "91 × 71 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-049",
+    fileName: 5475,
+    title: "Lady Sings The Blues",
+    date: 1988,
+    series: "Lady Sings the Blues",
+    medium: "acrylic on canvas  ",
+    dimensions: "107 × 76 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-063",
+    fileName: 5345,
+    title: "Bitter Crop",
+    date: 1988,
+    series: "Lady Sings the Blues",
+    medium: "acrylic on canvas   ",
+    dimensions: "122 × 91 cm",
+    category: "Paintings",
+  },
+]
+
+export default items

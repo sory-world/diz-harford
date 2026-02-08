@@ -1,0 +1,66 @@
+import { CollectionItem } from "~/types/CollectionItem"
+
+const items: CollectionItem[] = [
+  {
+    catalogNo: "DHA-074",
+    fileName: 5191,
+    title: "A Nice Clean Game",
+    date: 1983,
+    series: "A Nice Clean Game",
+    medium: "acrylic on canvas   ",
+    dimensions: "122 × 91 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-084",
+    fileName: 5381,
+    title: "Tiger Country",
+    date: 1983,
+    series: "A Nice Clean Game",
+    medium: "acrylic on canvas  ",
+    dimensions: "127 × 102 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-098",
+    fileName: 5444,
+    title: "Snalle Gully Zest",
+    date: 1983,
+    series: "A Nice Clean Game",
+    medium: "acrylic on canvas   ",
+    dimensions: "91 × 122 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-104",
+    fileName: 5249,
+    title: "Sacred Ground",
+    date: 1983,
+    series: "A Nice Clean Game",
+    medium: "acrylic on canvas   ",
+    dimensions: "127 × 102 cm",
+    category: "Paintings",
+  },
+  {
+    catalogNo: "DHA-111",
+    fileName: null,
+    title: "The Ballad of Reading Gaol",
+    date: 1995,
+    series: "A Nice Clean Game",
+    medium: "etching, ink on paper",
+    dimensions: "44 × 37 cm (framed)",
+    category: "Etchings",
+  },
+  {
+    catalogNo: "DHA-114",
+    fileName: 5724,
+    title: "Untitled",
+    date: 1996,
+    series: "A Nice Clean Game",
+    medium: "acrylic on canvas  ",
+    dimensions: "61 × 51 cm",
+    category: "Paintings",
+  },
+]
+
+export default items
