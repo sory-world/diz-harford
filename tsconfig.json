@@ -1,0 +1,19 @@
+{
+  "include": ["**/*", "**/.server/**/*", "**/.client/**/*", ".react-router/types/**/*"],
+  "compilerOptions": {
+    "types": ["vite/client"],
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "target": "es2015",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "~/": ["./app/"],
+      "~/*": ["./app/*"]
+    },
+    "rootDirs": [".", "./.react-router/types"],
+    "strict": true
+  }
+}
