@@ -13,3 +13,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+@media (max-width: 900px) {
+  .gallery-view {
+    gap: 2rem;
+  }
+}

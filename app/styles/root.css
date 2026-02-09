@@ -3,6 +3,8 @@
 html {
   font-family: Inter, sans-serif;
   scroll-behavior: smooth;
+  max-width: 2450px;
+  margin: 0 auto;
 }
 .anchor {
   scroll-margin-top: 5rem;
@@ -34,4 +36,26 @@ a.active {
   display: flex;
   flex-direction: column;
   flex: 1;
+}
+
+@media (max-width: 1200px) {
+  .view__content {
+    padding: 1rem 1.8rem 5rem;
+  }
+  body {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 900px) {
+  body {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    font-size: 0.6rem;
+  }
+  .view__content {
+    padding: 1rem 1rem 5rem;
+  }
 }

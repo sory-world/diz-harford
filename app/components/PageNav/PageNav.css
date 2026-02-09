@@ -7,3 +7,19 @@
   gap: 1rem;
   width: 15rem;
 }
+
+@media (max-width: 1200px) {
+  .page-nav {
+    width: fit-content;
+  }
+}
+@media (max-width: 900px) {
+  .page-nav {
+    gap: 0.6rem;
+  }
+}
+@media (max-width: 500px) {
+  .page-nav--open {
+    max-width: 6rem;
+  }
+}

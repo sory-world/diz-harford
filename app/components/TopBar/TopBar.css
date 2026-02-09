@@ -1,23 +1,84 @@
 .top-bar {
   position: sticky;
   top: 0;
+  z-index: 1000;
+  background: #fff;
+  width: 100%;
+  will-change: transform;
+}
+
+.top-bar__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+  padding: 0.8rem 3rem;
+}
+
+.top-bar__icon {
+  font-weight: 600;
+  font-size: 1.6rem;
+  min-width: max-content;
+}
+
+.top-bar__links-inner {
   display: flex;
   align-items: center;
   gap: 3rem;
-  padding: 0.8rem 3rem;
-  justify-content: space-between;
-  background-color: #fff;
-  align-self: flex-start;
-  width: 100%;
+}
 
-  .top-bar__icon {
-    font-weight: 600;
-    font-size: 1.6rem;
+.top-bar__menu-button {
+  display: none;
+}
+
+.top-bar__panel {
+  background: #fff;
+  padding: 0.4rem 1rem 0.5rem;
+  transform-origin: top;
+}
+
+.top-bar__panel-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 3rem;
+}
+
+@media (max-width: 1200px) {
+  .top-bar__row {
+    padding: 0.8rem 1.8rem;
   }
+}
 
+@media (max-width: 900px) {
+  .top-bar__row {
+    padding: 0.6rem 1rem 0.2rem;
+  }
+  .top-bar__icon {
+    font-size: 1.4rem;
+  }
+  .top-bar__links-inner,
+  .top-bar__panel-links {
+    font-size: 0.8rem;
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
   .top-bar__links {
+    display: none;
+  }
+  .top-bar__menu-button {
+    display: block;
+    font-size: 0.8rem;
+  }
+  .top-bar__icon {
+    font-size: 1.2rem;
+  }
+  .top-bar__panel-links {
     display: flex;
-    align-items: center;
-    gap: 3rem;
+    justify-content: flex-end;
+    gap: 1.4rem;
+    flex-wrap: wrap;
   }
 }
