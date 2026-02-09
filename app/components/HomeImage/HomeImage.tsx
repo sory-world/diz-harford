@@ -2,7 +2,7 @@ import { CollectionItem } from "~/types/CollectionItem"
 import "./HomeImage.css"
 
 function imageUrl(fileName: number) {
-  return `/assets/${fileName}.jpg`
+  return `/assets/${fileName}.webp`
 }
 
 export const HomeImage = ({ item }: { item: CollectionItem }) => {

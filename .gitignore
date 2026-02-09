@@ -6,3 +6,4 @@
 .netlify
 .react-router
 .wrangler
+/public/assets-fullsize

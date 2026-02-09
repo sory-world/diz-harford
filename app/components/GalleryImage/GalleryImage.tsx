@@ -4,7 +4,7 @@ import { useLocation } from "react-router"
 import { Link } from "react-router"
 
 function imageUrl(fileName: number) {
-  return `/assets/${fileName}.jpg`
+  return `/assets/${fileName}.webp`
 }
 
 const seriesTitleToSlug = (title: string) => {

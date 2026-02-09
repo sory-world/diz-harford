@@ -27,7 +27,7 @@ export default function About() {
           London and New York, and her work is held in private collections internationally.
         </p>
       </div>
-      <img src="/assets/diz.jpg"></img>
+      <img src="/assets/diz.webp"></img>
     </div>
   )
 }
