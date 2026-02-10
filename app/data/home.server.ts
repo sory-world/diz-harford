@@ -1,6 +1,7 @@
 import { CollectionItem } from "~/types/CollectionItem"
 
-export const items: CollectionItem[] = [  {
+export const items: CollectionItem[] = [
+  {
     catalogNo: "DHA-001",
     fileName: 5806,
     title: "Brian Boru",

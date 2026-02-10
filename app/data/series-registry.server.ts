@@ -9,7 +9,7 @@ function fileToSlug(path: string) {
 }
 
 const slugToImporter = new Map(
-  Object.entries(modules).map(([path, importer]) => [fileToSlug(path), importer])
+  Object.entries(modules).map(([path, importer]) => [fileToSlug(path), importer]),
 )
 
 export async function getSeriesItemsBySlug(slug: string): Promise<CollectionItem[] | null> {

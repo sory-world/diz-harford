@@ -1,6 +1,7 @@
 import { CollectionItem } from "~/types/CollectionItem"
 
-const items: CollectionItem[] = [  {
+const items: CollectionItem[] = [
+  {
     catalogNo: "DHA-040",
     fileName: 5831,
     title: "Proteus",
