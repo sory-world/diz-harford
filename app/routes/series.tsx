@@ -11,7 +11,7 @@ export default function Series() {
           <PageNav>
             <Link to="a-nice-clean-game">A Nice Clean Game</Link>
             <Link to="early-works">Early Works</Link>
-            <Link to="fields-of-blood">Field of Blood</Link>
+            <Link to="fields-of-blood">Fields of Blood</Link>
             <Link to="how-clean-my-country">How Clean my Country</Link>
             <Link to="i-was-here">I Was Here</Link>
             <Link to="lady-sings-the-blues">Lady Sings the Blues</Link>

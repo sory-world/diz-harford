@@ -35,7 +35,7 @@ export const GalleryImage = ({ item }: { item: CollectionItem }) => {
       </div>
       <div className="page-image__description">
         <i>{item.title}</i>
-        <p>{item.date}</p>
+        <p>{item.date !== "nd" && item.date}</p>
         <p>{item.medium}</p>
         <p>{item.dimensions}</p>
         {!isSeries && (
