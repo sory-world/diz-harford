@@ -2,6 +2,7 @@ import { Outlet, Scripts, ScrollRestoration } from "react-router"
 import { TopBar } from "./components/TopBar/TopBar"
 import "./styles/reset.css"
 import "./styles/root.css"
+import { Footer } from "./components/Footer/Footer"
 
 export default function Root() {
   return (
@@ -19,6 +20,7 @@ export default function Root() {
         <footer />
         <ScrollRestoration />
         <Scripts />
+        <Footer />
       </body>
     </html>
   )
