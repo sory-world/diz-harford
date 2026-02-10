@@ -44,6 +44,11 @@
   gap: 3rem;
 }
 
+@media (min-width: 600px) {
+  .top-bar__panel {
+    display: none;
+  }
+}
 @media (max-width: 1200px) {
   .top-bar__row {
     padding: 0.8rem 1.8rem;
@@ -55,7 +60,7 @@
     padding: 0.6rem 1rem 0.2rem;
   }
   .top-bar__icon {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
   .top-bar__links-inner,
   .top-bar__panel-links {
@@ -73,7 +78,7 @@
     font-size: 0.8rem;
   }
   .top-bar__icon {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
   .top-bar__panel-links {
     display: flex;
