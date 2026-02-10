@@ -4,7 +4,7 @@ import { getSeriesItemsBySlug } from "~/data/series-registry.server"
 import type { CollectionItem } from "~/types/CollectionItem"
 import { data } from "react-router"
 import { RESERVED_ROUTES } from "~/constants/reservedRoutes"
-import { GalleryView } from "~/pages/GalleryView"
+import { GalleryView } from "~/components/GalleryView/GalleryView"
 
 const titleFromSlug = (slug: string) => {
   return slug

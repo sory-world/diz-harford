@@ -1,7 +1,7 @@
 import { useLoaderData } from "react-router"
 import { PAINTINGS } from "../data/paintings.server"
 import type { CollectionItem } from "~/types/CollectionItem"
-import { GalleryView } from "~/pages/GalleryView"
+import { GalleryView } from "~/components/GalleryView/GalleryView"
 import { useEffect } from "react"
 import { Page } from "~/components/Page/Page"
 import { PageNav } from "~/components/PageNav/PageNav"

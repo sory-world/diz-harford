@@ -4,7 +4,7 @@
   padding: 0 0 8rem;
 
   .page-image__image-wrap {
-    width: 65rem;
+    max-width: 65rem;
   }
 
   .page-image__image {
@@ -14,7 +14,7 @@
   .page-image__description {
     display: flex;
     flex-direction: column;
-    width: 14rem;
+    min-width: 8rem;
   }
 }
 @media (max-width: 1200px) {
@@ -27,10 +27,14 @@
     }
   }
 }
+@media (max-width: 1000px) {
+  .page-image__container {
+    flex-direction: column;
+  }
+}
 @media (max-width: 900px) {
   .page-image__container {
     gap: 1rem;
     padding: 0 0 3rem;
-    flex-direction: column;
   }
 }

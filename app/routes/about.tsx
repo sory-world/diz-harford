@@ -2,7 +2,7 @@ import "~/styles/about.css"
 
 export default function About() {
   return (
-    <div className="about">
+    <main className="about">
       <div className="about__bio">
         <p>
           Diz Harford (1931–2016) was an Australian-born painter, etcher and sculptor who lived and
@@ -27,7 +27,7 @@ export default function About() {
           London and New York, and her work is held in private collections internationally.
         </p>
       </div>
-      <img src="/assets/diz.webp"></img>
-    </div>
+      <img className="about__img" src="/assets/diz.webp"></img>
+    </main>
   )
 }
