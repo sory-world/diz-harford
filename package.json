@@ -9,8 +9,10 @@
     "build": "react-router build",
     "typecheck": "react-router typegen && tsc --noEmit",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pages:build": "react-router build",
-    "pages:preview": "wrangler pages dev build/client",
+    "cf:build": "react-router build",
+    "cf:dev": "wrangler dev",
+    "cf:preview": "pnpm cf:build && vite preview",
+    "cf:deploy": "pnpm cf:build && wrangler deploy",
     "format": "prettier --write ."
   },
   "keywords": [],
@@ -27,11 +29,12 @@
     "react-router-dom": "^7.9.3"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "*",
     "@react-router/dev": "^7.9.3",
     "@types/react": "^18.3.0",
     "prettier": "^3.8.1",
     "typescript": "^5.9.2",
     "vite": "^6.3.6",
-    "wrangler": "^4.41.0"
+    "wrangler": "^4.64.0"
   }
 }
