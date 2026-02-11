@@ -10,7 +10,7 @@ export default function Root() {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <meta name="description" content="Artist portfolio and works." />
+        <meta name="description" content="Diz Harford archive 1966-2009." />
         <Meta />
         <Links />
       </head>
