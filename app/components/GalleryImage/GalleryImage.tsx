@@ -18,8 +18,6 @@ export const GalleryImage = ({ item }: { item: CollectionItem }) => {
   const { pathname } = useLocation()
   const isSeries = pathname.includes("series")
 
-  console.log(seriesTitleToSlug(item.title))
-
   return (
     <article className="page-image__container">
       <div className="page-image__image-wrap">
