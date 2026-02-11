@@ -15,7 +15,7 @@
 }
 @media (max-width: 900px) {
   .page-nav {
-    gap: 0.6rem;
+    gap: 1.4rem;
   }
 }
 @media (max-width: 500px) {

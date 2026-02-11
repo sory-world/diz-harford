@@ -83,7 +83,7 @@
   .top-bar__panel-links {
     display: flex;
     justify-content: flex-end;
-    gap: 1.4rem;
+    gap: 0.8rem;
     flex-wrap: wrap;
   }
 }
