@@ -7,8 +7,11 @@ export default function Contact() {
       <h4>About this website</h4>
       <p>
         This website is dedicated to the work of Diz Harford. It is managed in the UK by the
-        executor of her estate. For any questions about this site or its contents, please contact:
-        [info@dizharford.com].
+        executor of her estate. For any questions about this site or its contents, please contact{" "}
+        <a style={{ textDecoration: "underline" }} href="mailto:dizharford@gmail.com">
+          dizharford@gmail.com
+        </a>
+        .
       </p>
 
       <h4>Privacy</h4>
@@ -32,7 +35,13 @@ export default function Contact() {
         <li>Ask what personal information is held about you</li>
         <li>Ask for it to be corrected or deleted</li>
       </ul>
-      <p>To do so, please email [info@dizharford.com].</p>
+      <p>
+        To do so, please email{" "}
+        <a style={{ textDecoration: "underline" }} href="mailto:dizharford@gmail.com">
+          dizharford@gmail.com
+        </a>
+        .
+      </p>
 
       <h4>Cookies & Analytics</h4>
       <p>
@@ -80,7 +89,11 @@ export default function Contact() {
       <h4>Accessibility</h4>
       <p>
         This website aims to be as accessible as possible. If you encounter any issues or have
-        suggestions for improvement, please contact [info@dizharford.com].
+        suggestions for improvement, please contact{" "}
+        <a style={{ textDecoration: "underline" }} href="mailto:dizharford@gmail.com">
+          dizharford@gmail.com
+        </a>
+        .
       </p>
 
       <h4>Changes</h4>
