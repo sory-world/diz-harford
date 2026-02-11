@@ -8,7 +8,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1960",
     series: "Portraits",
     medium: "oil on canvas (framed)",
-    dimensions: "33 × 28 cm (framed)",
+    dimensions: "33 x 28 cm (framed)",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "2004",
     series: "The Ladies of The Night",
     medium: "acrylic on canvas ",
-    dimensions: "51 × 41 cm",
+    dimensions: "51 x 41 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c2000",
     series: "Salome and The Boxers",
     medium: "oil on canvas",
-    dimensions: "30 × 30 cm",
+    dimensions: "30 x 30 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1991",
     series: "She and Fella",
     medium: "acrylic on canvas",
-    dimensions: "51 × 41 cm",
+    dimensions: "51 x 41 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas s",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1992",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c2000",
     series: "Miscellaneous",
     medium: "mix media",
-    dimensions: "34 × 37 cm",
+    dimensions: "34 x 37 cm",
     category: "Paintings",
   },
   {
@@ -138,7 +138,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1989",
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -148,7 +148,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -158,7 +158,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1999",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -168,7 +168,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1992",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -178,7 +178,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1967",
     series: "Portraits",
     medium: "oil on canvas",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -188,7 +188,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -198,7 +198,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1990",
     series: "Portraits",
     medium: "oil on canvas",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -208,7 +208,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -218,7 +218,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1994",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "81 × 66 cm",
+    dimensions: "81 x 66 cm",
     category: "Paintings",
   },
   {
@@ -228,7 +228,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "How Clean my Country",
     medium: "acrylic on canvas ",
-    dimensions: "81 × 61 cm",
+    dimensions: "81 x 61 cm",
     category: "Paintings",
   },
   {
@@ -238,7 +238,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "86 × 66 cm",
+    dimensions: "86 x 66 cm",
     category: "Paintings",
   },
   {
@@ -248,7 +248,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1985",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "86 × 63 cm",
+    dimensions: "86 x 63 cm",
     category: "Paintings",
   },
   {
@@ -258,7 +258,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1988",
     series: "She and Fella",
     medium: "oil on canvas",
-    dimensions: "61 × 76 cm",
+    dimensions: "61 x 76 cm",
     category: "Paintings",
   },
   {
@@ -268,7 +268,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1994",
     series: "The Ballad of Reading Gaol",
     medium: "oil on canvas",
-    dimensions: "61 × 81 cm",
+    dimensions: "61 x 81 cm",
     category: "Paintings",
   },
   {
@@ -278,7 +278,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1995",
     series: "The Ladies of The Night",
     medium: "oil on canvas",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -288,7 +288,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1995",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -298,7 +298,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1996",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -308,7 +308,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -318,7 +318,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1986",
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 66 cm",
+    dimensions: "91 x 66 cm",
     category: "Paintings",
   },
   {
@@ -328,7 +328,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1994",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 66 cm",
+    dimensions: "91 x 66 cm",
     category: "Paintings",
   },
   {
@@ -338,7 +338,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1994",
     series: "How Clean my Country",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -348,7 +348,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -358,7 +358,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1999",
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -368,7 +368,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1984",
     series: "How Clean my Country",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -378,7 +378,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1989",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -388,7 +388,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1990",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -398,7 +398,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1965",
     series: "Ulysses",
     medium: "oil on canvas",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -408,7 +408,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1965",
     series: "Ulysses",
     medium: "oil on canvas ",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -418,7 +418,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1978",
     series: "Portraits",
     medium: "acrylic on canvas ",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -428,7 +428,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "Ulysses",
     medium: "acrylic on canvas ",
-    dimensions: "124 × 99 cm",
+    dimensions: "124 x 99 cm",
     category: "Paintings",
   },
   {
@@ -438,7 +438,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1994",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -448,7 +448,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -458,7 +458,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1996",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -468,7 +468,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1994",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -478,7 +478,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas  ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -488,7 +488,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas  ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -498,7 +498,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -508,7 +508,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -518,7 +518,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas  ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -528,7 +528,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1980",
     series: "The Garden",
     medium: "acrylic and collage on canvas ",
-    dimensions: "61 × 91 cm",
+    dimensions: "61 x 91 cm",
     category: "Paintings",
   },
   {
@@ -538,7 +538,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas  ",
-    dimensions: "61 × 91 cm",
+    dimensions: "61 x 91 cm",
     category: "Paintings",
   },
   {
@@ -548,7 +548,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1999",
     series: "How Clean my Country",
     medium: "acrylic on canvas  ",
-    dimensions: "71 × 91 cm",
+    dimensions: "71 x 91 cm",
     category: "Paintings",
   },
   {
@@ -558,7 +558,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1990",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas  ",
-    dimensions: "71 × 91 cm",
+    dimensions: "71 x 91 cm",
     category: "Paintings",
   },
   {
@@ -568,7 +568,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1990",
     series: "She and Fella",
     medium: "acrylic on canvas  ",
-    dimensions: "71 × 91 cm",
+    dimensions: "71 x 91 cm",
     category: "Paintings",
   },
   {
@@ -578,7 +578,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1995",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -588,7 +588,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -598,7 +598,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1984",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -608,7 +608,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -618,7 +618,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -628,7 +628,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -638,7 +638,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -648,7 +648,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -658,7 +658,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1987",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -668,7 +668,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1989",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -678,7 +678,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -688,7 +688,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -698,7 +698,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1994",
     series: "How Clean my Country",
     medium: "acrylic on canvas  ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -708,7 +708,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -718,7 +718,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1990",
     series: "",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -728,7 +728,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -738,7 +738,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1983",
     series: "A Nice Clean Game",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -748,7 +748,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1984",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -758,7 +758,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1987",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -768,7 +768,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1987",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -778,7 +778,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1980",
     series: "The Garden",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -788,7 +788,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -798,7 +798,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -808,7 +808,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -818,7 +818,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1992",
     series: "Portraits",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -828,7 +828,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1986",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -838,7 +838,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1983",
     series: "A Nice Clean Game",
     medium: "acrylic on canvas  ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -848,7 +848,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1983",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -858,7 +858,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -868,7 +868,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1978",
     series: "I Was Here",
     medium: "oil on canvas",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -878,7 +878,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1978",
     series: "I Was Here",
     medium: "oil on canvas  ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -888,7 +888,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1982",
     series: "How Clean My Country",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -898,7 +898,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1978",
     series: "I Was Here",
     medium: "oil on canvas  ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -908,7 +908,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1984",
     series: "How Clean My Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 97 cm",
+    dimensions: "122 x 97 cm",
     category: "Paintings",
   },
   {
@@ -918,7 +918,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm (framed)",
+    dimensions: "122 x 91 cm (framed)",
     category: "Paintings",
   },
   {
@@ -928,7 +928,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1974",
     series: "Portraits",
     medium: "oil on stretched paper",
-    dimensions: "92 × 112 cm",
+    dimensions: "92 x 112 cm",
     category: "Paintings",
   },
   {
@@ -938,7 +938,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1985",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -948,7 +948,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1987",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -958,7 +958,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -968,7 +968,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -978,7 +978,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1983",
     series: "A Nice Clean Game",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -988,7 +988,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Miscellaneous",
     medium: "oil on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -998,7 +998,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Portraits",
     medium: "oil on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1008,7 +1008,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1987",
     series: "She and Fella",
     medium: "acrylic on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1018,7 +1018,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Early Works",
     medium: "oil on canvas",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1028,7 +1028,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "oil on canvas",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1038,7 +1038,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1983",
     series: "A Nice Clean Game",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -1048,7 +1048,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "acrylic on stretched paper",
-    dimensions: "89 × 119 cm",
+    dimensions: "89 x 119 cm",
     category: "Paintings",
   },
   {
@@ -1058,7 +1058,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1985",
     series: "Portraits",
     medium: "acrylic on canvas  ",
-    dimensions: "137 × 122 cm",
+    dimensions: "137 x 122 cm",
     category: "Paintings",
   },
   {
@@ -1068,7 +1068,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "2006",
     series: "She and Fella",
     medium: "monotype imprint",
-    dimensions: "34 × 37 cm (framed)",
+    dimensions: "34 x 37 cm (framed)",
     category: "Paintings",
   },
   {
@@ -1078,7 +1078,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "oil on paper",
-    dimensions: "91 × 42 cm",
+    dimensions: "91 x 42 cm",
     category: "Paintings",
   },
   {
@@ -1088,7 +1088,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "69 × 56 cm",
+    dimensions: "69 x 56 cm",
     category: "Paintings",
   },
   {
@@ -1098,7 +1098,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1996",
     series: "A Nice Clean Game",
     medium: "acrylic on canvas  ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -1108,7 +1108,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Portraits",
     medium: "oil on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -1118,7 +1118,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Salome and The Boxers",
     medium: "oil on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -1128,7 +1128,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1967",
     series: "Portraits",
     medium: "oil on canvas",
-    dimensions: "50 × 38 cm",
+    dimensions: "50 x 38 cm",
     category: "Paintings",
   },
   {
@@ -1138,7 +1138,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Portraits",
     medium: "oil on canvas",
-    dimensions: "41 × 37 cm",
+    dimensions: "41 x 37 cm",
     category: "Paintings",
   },
   {
@@ -1158,7 +1158,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -1168,7 +1168,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -1178,7 +1178,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -1188,7 +1188,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "oil on canvas ",
-    dimensions: "36 × 25 cm",
+    dimensions: "36 x 25 cm",
     category: "Paintings",
   },
   {
@@ -1198,7 +1198,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "2004",
     series: "Salome and The Boxers",
     medium: "oil on canvas ",
-    dimensions: "25 × 30 cm",
+    dimensions: "25 x 30 cm",
     category: "Paintings",
   },
   {
@@ -1208,7 +1208,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "2009",
     series: "She and Fella",
     medium: "acrylic on canvas  ",
-    dimensions: "46 × 61 cm",
+    dimensions: "46 x 61 cm",
     category: "Paintings",
   },
   {
@@ -1218,7 +1218,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1966",
     series: "Portraits",
     medium: "oil on board",
-    dimensions: "51 × 41 cm",
+    dimensions: "51 x 41 cm",
     category: "Paintings",
   },
   {
@@ -1228,7 +1228,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -1238,7 +1238,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic on canvas",
-    dimensions: "36 × 25 × 4 cm each",
+    dimensions: "36 x 25 x 4 cm each",
     category: "Paintings",
   },
   {
@@ -1248,7 +1248,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1966",
     series: "Portraits",
     medium: "oil on canvas",
-    dimensions: "46 × 61 cm",
+    dimensions: "46 x 61 cm",
     category: "Paintings",
   },
   {
@@ -1258,7 +1258,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "99 × 97 cm",
+    dimensions: "99 x 97 cm",
     category: "Paintings",
   },
   {
@@ -1268,7 +1268,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "119 × 94 cm",
+    dimensions: "119 x 94 cm",
     category: "Paintings",
   },
   {
@@ -1278,7 +1278,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1972",
     series: "Early Works",
     medium: "acrylic on paper",
-    dimensions: "112 × 122 cm",
+    dimensions: "112 x 122 cm",
     category: "Paintings",
   },
   {
@@ -1288,7 +1288,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1972",
     series: "Early Works",
     medium: "acrylic on paper",
-    dimensions: "107 × 124 cm",
+    dimensions: "107 x 124 cm",
     category: "Paintings",
   },
   {
@@ -1298,7 +1298,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1969",
     series: "Early Works",
     medium: "oil on canvas (unstretched)",
-    dimensions: "99 × 122 cm",
+    dimensions: "99 x 122 cm",
     category: "Paintings",
   },
   {
@@ -1308,7 +1308,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1974",
     series: "Miscellaneous",
     medium: "acrylic on paper",
-    dimensions: "112 × 127 cm",
+    dimensions: "112 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1318,7 +1318,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1974",
     series: "Miscellaneous",
     medium: "acrylic on paper",
-    dimensions: "112 × 127 cm",
+    dimensions: "112 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1328,7 +1328,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1972",
     series: "Portraits",
     medium: "acrylic on paper",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1338,7 +1338,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "  1969",
     series: "Early Works",
     medium: "acrylic on paper",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -1348,7 +1348,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "97 × 140 cm",
+    dimensions: "97 x 140 cm",
     category: "Paintings",
   },
   {
@@ -1358,7 +1358,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1980",
     series: "Miscellaneous",
     medium: "acrylic on canvas (unstreched)",
-    dimensions: "99 × 127 cm",
+    dimensions: "99 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1368,7 +1368,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "97 × 127 cm",
+    dimensions: "97 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1378,7 +1378,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "81 × 135 cm",
+    dimensions: "81 x 135 cm",
     category: "Paintings",
   },
   {
@@ -1388,7 +1388,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "127 × 160 cm",
+    dimensions: "127 x 160 cm",
     category: "Paintings",
   },
   {
@@ -1398,7 +1398,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1972",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "97 × 122 cm",
+    dimensions: "97 x 122 cm",
     category: "Paintings",
   },
   {
@@ -1408,7 +1408,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1971",
     series: "Ulysses",
     medium: "acrylic on paper",
-    dimensions: "122 × 170 cm",
+    dimensions: "122 x 170 cm",
     category: "Paintings",
   },
   {
@@ -1418,7 +1418,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1971",
     series: "Ulysses",
     medium: "acrylic on paper",
-    dimensions: "124 × 170 cm",
+    dimensions: "124 x 170 cm",
     category: "Paintings",
   },
   {
@@ -1428,7 +1428,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1969",
     series: "Early Works",
     medium: "oil and mixed media on canvas tarp",
-    dimensions: "160 × 188 cm",
+    dimensions: "160 x 188 cm",
     category: "Paintings",
   },
   {
@@ -1438,7 +1438,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1978",
     series: "The Ballad of Reading Gaol",
     medium: "?",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -1448,7 +1448,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Salome and The Boxers",
     medium: "oil on canvas",
-    dimensions: "61 × 81 cm",
+    dimensions: "61 x 81 cm",
     category: "Paintings",
   },
   {
@@ -1458,7 +1458,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1992",
     series: "Miscellaneous",
     medium: "acrylic on canvas",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -1468,7 +1468,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1986",
     series: "She and Fella",
     medium: "acrylic on canvas",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -1478,7 +1478,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1992",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -1488,7 +1488,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -1498,7 +1498,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "c1994",
     series: "The Ladies of The Night",
     medium: "acrylic on canvas   ",
-    dimensions: "41 × 41 cm",
+    dimensions: "41 x 41 cm",
     category: "Paintings",
   },
   {
@@ -1508,7 +1508,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "1988",
     series: "How Clean My Country",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -1518,7 +1518,7 @@ export const PAINTINGS: CollectionItem[] = [
     date: "nd",
     series: "Salome and The Boxers",
     medium: "oil on canvas  ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
 ]

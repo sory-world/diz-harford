@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "c1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "c1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas s",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "1992",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "1992",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "  1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "  1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "  1994",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "81 × 66 cm",
+    dimensions: "81 x 66 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "86 × 66 cm",
+    dimensions: "86 x 66 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ const items: CollectionItem[] = [
     date: "1994",
     series: "The Ballad of Reading Gaol",
     medium: "oil on canvas",
-    dimensions: "61 × 81 cm",
+    dimensions: "61 x 81 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ const items: CollectionItem[] = [
     date: "1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ const items: CollectionItem[] = [
     date: "1994",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ const items: CollectionItem[] = [
     date: "1995",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ const items: CollectionItem[] = [
     date: "1996",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -138,7 +138,7 @@ const items: CollectionItem[] = [
     date: "1994",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "102 × 76 cm",
+    dimensions: "102 x 76 cm",
     category: "Paintings",
   },
   {
@@ -148,7 +148,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -158,7 +158,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -168,7 +168,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -178,7 +178,7 @@ const items: CollectionItem[] = [
     date: "c1990",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -188,7 +188,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -198,7 +198,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -208,7 +208,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas  ",
-    dimensions: "69 × 56 cm",
+    dimensions: "69 x 56 cm",
     category: "Paintings",
   },
   {
@@ -218,7 +218,7 @@ const items: CollectionItem[] = [
     date: "c1978",
     series: "The Ballad of Reading Gaol",
     medium: "?",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -228,7 +228,7 @@ const items: CollectionItem[] = [
     date: "1992",
     series: "The Ballad of Reading Gaol",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
 ]

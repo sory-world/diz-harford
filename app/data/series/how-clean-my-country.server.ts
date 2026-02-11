@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "How Clean my Country",
     medium: "acrylic on canvas ",
-    dimensions: "81 × 61 cm",
+    dimensions: "81 x 61 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "1994",
     series: "How Clean my Country",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "1984",
     series: "How Clean my Country",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "1999",
     series: "How Clean my Country",
     medium: "acrylic on canvas  ",
-    dimensions: "71 × 91 cm",
+    dimensions: "71 x 91 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "1984",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "1994",
     series: "How Clean my Country",
     medium: "acrylic on canvas  ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "1984",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "1987",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ const items: CollectionItem[] = [
     date: "1983",
     series: "How Clean my Country",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ const items: CollectionItem[] = [
     date: "1982",
     series: "How Clean My Country",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ const items: CollectionItem[] = [
     date: "1984",
     series: "How Clean My Country",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 97 cm",
+    dimensions: "122 x 97 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "How Clean My Country",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
 ]

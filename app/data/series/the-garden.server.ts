@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "c1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "1991",
     series: "The Garden",
     medium: "acrylic on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "c1980",
     series: "The Garden",
     medium: "acrylic and collage on canvas ",
-    dimensions: "61 × 91 cm",
+    dimensions: "61 x 91 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "c1980",
     series: "The Garden",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
 ]

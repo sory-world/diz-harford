@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "The Ladies of The Night",
     medium: "etching, ink on paper",
-    dimensions: "17 × 27 cm (framed)",
+    dimensions: "17 x 27 cm (framed)",
     category: "Etchings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "2004",
     series: "The Ladies of The Night",
     medium: "acrylic on canvas ",
-    dimensions: "51 × 41 cm",
+    dimensions: "51 x 41 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "1995",
     series: "The Ladies of The Night",
     medium: "oil on canvas",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "c1994",
     series: "The Ladies of The Night",
     medium: "acrylic on canvas   ",
-    dimensions: "41 × 41 cm",
+    dimensions: "41 x 41 cm",
     category: "Paintings",
   },
 ]

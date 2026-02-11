@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "c2000",
     series: "Salome and The Boxers",
     medium: "oil on canvas",
-    dimensions: "30 × 30 cm",
+    dimensions: "30 x 30 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "1999",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "c1995",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "1996",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "1994",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 66 cm",
+    dimensions: "91 x 66 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas  ",
-    dimensions: "61 × 91 cm",
+    dimensions: "61 x 91 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "1990",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas  ",
-    dimensions: "71 × 91 cm",
+    dimensions: "71 x 91 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "1995",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ const items: CollectionItem[] = [
     date: "1987",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ const items: CollectionItem[] = [
     date: "1987",
     series: "Salome and The Boxers",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Salome and The Boxers",
     medium: "oil on canvas ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ const items: CollectionItem[] = [
     date: "2004",
     series: "Salome and The Boxers",
     medium: "oil on canvas ",
-    dimensions: "25 × 30 cm",
+    dimensions: "25 x 30 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Salome and The Boxers",
     medium: "oil on canvas",
-    dimensions: "61 × 81 cm",
+    dimensions: "61 x 81 cm",
     category: "Paintings",
   },
   {
@@ -138,7 +138,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Salome and The Boxers",
     medium: "oil on canvas  ",
-    dimensions: "91 × 61 cm",
+    dimensions: "91 x 61 cm",
     category: "Paintings",
   },
 ]

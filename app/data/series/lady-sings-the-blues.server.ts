@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: 1989,
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: 1986,
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 66 cm",
+    dimensions: "91 x 66 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: 1999,
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: 1988,
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas  ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: 1988,
     series: "Lady Sings the Blues",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
 ]

@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: 1965,
     series: "Ulysses",
     medium: "oil on canvas",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: 1965,
     series: "Ulysses",
     medium: "oil on canvas ",
-    dimensions: "94 × 74 cm",
+    dimensions: "94 x 74 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: 1993,
     series: "Ulysses",
     medium: "acrylic on canvas ",
-    dimensions: "124 × 99 cm",
+    dimensions: "124 x 99 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: 2008,
     series: "Ulysses",
     medium: "etching, ink on paper",
-    dimensions: "43 × 43 cm (framed)",
+    dimensions: "43 x 43 cm (framed)",
     category: "Etchings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: 1971,
     series: "Ulysses",
     medium: "acrylic on paper",
-    dimensions: "122 × 170 cm",
+    dimensions: "122 x 170 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: 1971,
     series: "Ulysses",
     medium: "acrylic on paper",
-    dimensions: "124 × 170 cm",
+    dimensions: "124 x 170 cm",
     category: "Paintings",
   },
 ]

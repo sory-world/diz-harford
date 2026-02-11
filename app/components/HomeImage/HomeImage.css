@@ -2,6 +2,7 @@
   display: flex;
 
   .image {
-    width: 40rem;
+    height: min(75vh, 80vw * 1.5);
+    width: auto;
   }
 }

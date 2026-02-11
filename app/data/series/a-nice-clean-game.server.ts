@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: 1983,
     series: "A Nice Clean Game",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: 1983,
     series: "A Nice Clean Game",
     medium: "acrylic on canvas  ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: 1983,
     series: "A Nice Clean Game",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: 1983,
     series: "A Nice Clean Game",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: 1995,
     series: "A Nice Clean Game",
     medium: "etching, ink on paper",
-    dimensions: "44 × 37 cm (framed)",
+    dimensions: "44 x 37 cm (framed)",
     category: "Etchings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: 1996,
     series: "A Nice Clean Game",
     medium: "acrylic on canvas  ",
-    dimensions: "61 × 51 cm",
+    dimensions: "61 x 51 cm",
     category: "Paintings",
   },
 ]

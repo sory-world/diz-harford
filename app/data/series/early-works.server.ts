@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Early Works",
     medium: "oil on canvas",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "99 × 97 cm",
+    dimensions: "99 x 97 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "  1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "119 × 94 cm",
+    dimensions: "119 x 94 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "  1972",
     series: "Early Works",
     medium: "acrylic on paper",
-    dimensions: "112 × 122 cm",
+    dimensions: "112 x 122 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "  1972",
     series: "Early Works",
     medium: "acrylic on paper",
-    dimensions: "107 × 124 cm",
+    dimensions: "107 x 124 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "  1969",
     series: "Early Works",
     medium: "oil on canvas (unstretched)",
-    dimensions: "99 × 122 cm",
+    dimensions: "99 x 122 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "  1969",
     series: "Early Works",
     medium: "acrylic on paper",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "97 × 140 cm",
+    dimensions: "97 x 140 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ const items: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "97 × 127 cm",
+    dimensions: "97 x 127 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ const items: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "81 × 135 cm",
+    dimensions: "81 x 135 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ const items: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "127 × 160 cm",
+    dimensions: "127 x 160 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ const items: CollectionItem[] = [
     date: "1972",
     series: "Early Works",
     medium: "oil on paper",
-    dimensions: "97 × 122 cm",
+    dimensions: "97 x 122 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ const items: CollectionItem[] = [
     date: "1969",
     series: "Early Works",
     medium: "oil and mixed media on canvas tarp",
-    dimensions: "160 × 188 cm",
+    dimensions: "160 x 188 cm",
     category: "Paintings",
   },
   {
@@ -138,7 +138,7 @@ const items: CollectionItem[] = [
     date: "c1970",
     series: "Early Works",
     medium: "oil on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
 ]

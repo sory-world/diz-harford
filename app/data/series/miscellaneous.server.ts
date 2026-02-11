@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "c2000",
     series: "Miscellaneous",
     medium: "mix media",
-    dimensions: "34 × 37 cm",
+    dimensions: "34 x 37 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Miscellaneous",
     medium: "oil on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "  1974",
     series: "Miscellaneous",
     medium: "acrylic on paper",
-    dimensions: "112 × 127 cm",
+    dimensions: "112 x 127 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "1974",
     series: "Miscellaneous",
     medium: "acrylic on paper",
-    dimensions: "112 × 127 cm",
+    dimensions: "112 x 127 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "1980",
     series: "Miscellaneous",
     medium: "acrylic on canvas (unstreched)",
-    dimensions: "99 × 127 cm",
+    dimensions: "99 x 127 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "c1992",
     series: "Miscellaneous",
     medium: "acrylic on canvas",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Miscellaneous",
     medium: "glaze on fired clay",
-    dimensions: "20 × 18 × 13 cm",
+    dimensions: "20 x 18 x 13 cm",
     category: "Sculptures",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Miscellaneous",
     medium: "glaze on fired clay",
-    dimensions: "18 × 103 × 9 cm",
+    dimensions: "18 x 103 x 9 cm",
     category: "Sculptures",
   },
   {

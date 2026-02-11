@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: 1978,
     series: "I Was Here",
     medium: "oil on canvas",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: 1978,
     series: "I Was Here",
     medium: "oil on canvas  ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: 1978,
     series: "I Was Here",
     medium: "oil on canvas  ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
 ]

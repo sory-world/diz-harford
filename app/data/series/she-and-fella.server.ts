@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "1991",
     series: "She and Fella",
     medium: "acrylic on canvas",
-    dimensions: "51 × 41 cm",
+    dimensions: "51 x 41 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "76 × 61 cm",
+    dimensions: "76 x 61 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "1985",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "86 × 63 cm",
+    dimensions: "86 x 63 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "c1988",
     series: "She and Fella",
     medium: "oil on canvas",
-    dimensions: "61 × 76 cm",
+    dimensions: "61 x 76 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "1989",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "1990",
     series: "She and Fella",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "c1990",
     series: "She and Fella",
     medium: "acrylic on canvas  ",
-    dimensions: "71 × 91 cm",
+    dimensions: "71 x 91 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ const items: CollectionItem[] = [
     date: "1986",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ const items: CollectionItem[] = [
     date: "1985",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ const items: CollectionItem[] = [
     date: "1987",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "She and Fella",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ const items: CollectionItem[] = [
     date: "1987",
     series: "She and Fella",
     medium: "acrylic on canvas  ",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -138,7 +138,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "oil on canvas",
-    dimensions: "102 × 127 cm",
+    dimensions: "102 x 127 cm",
     category: "Paintings",
   },
   {
@@ -148,7 +148,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "acrylic on stretched paper",
-    dimensions: "89 × 119 cm",
+    dimensions: "89 x 119 cm",
     category: "Paintings",
   },
   {
@@ -158,7 +158,7 @@ const items: CollectionItem[] = [
     date: "2006",
     series: "She and Fella",
     medium: "monotype imprint",
-    dimensions: "34 × 37 cm (framed)",
+    dimensions: "34 x 37 cm (framed)",
     category: "Paintings",
   },
   {
@@ -168,7 +168,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "oil on paper",
-    dimensions: "91 × 42 cm",
+    dimensions: "91 x 42 cm",
     category: "Paintings",
   },
   {
@@ -178,7 +178,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -188,7 +188,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -198,7 +198,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -208,7 +208,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "oil on canvas ",
-    dimensions: "36 × 25 cm",
+    dimensions: "36 x 25 cm",
     category: "Paintings",
   },
   {
@@ -218,7 +218,7 @@ const items: CollectionItem[] = [
     date: "2009",
     series: "She and Fella",
     medium: "acrylic on canvas  ",
-    dimensions: "46 × 61 cm",
+    dimensions: "46 x 61 cm",
     category: "Paintings",
   },
   {
@@ -228,7 +228,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic canvas ",
-    dimensions: "36 × 25 × 4 cm",
+    dimensions: "36 x 25 x 4 cm",
     category: "Paintings",
   },
   {
@@ -238,7 +238,7 @@ const items: CollectionItem[] = [
     date: "1998",
     series: "She and Fella",
     medium: "bone and acrylic on canvas",
-    dimensions: "36 × 25 × 4 cm each",
+    dimensions: "36 x 25 x 4 cm each",
     category: "Paintings",
   },
   {
@@ -248,7 +248,7 @@ const items: CollectionItem[] = [
     date: "c1986",
     series: "She and Fella",
     medium: "acrylic on canvas",
-    dimensions: "127 × 102 cm",
+    dimensions: "127 x 102 cm",
     category: "Paintings",
   },
   {
@@ -258,7 +258,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "acrylic on wood",
-    dimensions: "142 × 56 × 4 cm",
+    dimensions: "142 x 56 x 4 cm",
     category: "Sculptures",
   },
   {
@@ -268,7 +268,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "acrylic on wood",
-    dimensions: "109 × 33 × 20 cm",
+    dimensions: "109 x 33 x 20 cm",
     category: "Sculptures",
   },
   {
@@ -278,7 +278,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "She and Fella",
     medium: "steel",
-    dimensions: "46 × 20 × 8 cm",
+    dimensions: "46 x 20 x 8 cm",
     category: "Sculptures",
   },
 ]

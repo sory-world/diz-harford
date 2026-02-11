@@ -8,7 +8,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "91 × 71 cm",
+    dimensions: "91 x 71 cm",
     category: "Paintings",
   },
   {
@@ -18,7 +18,7 @@ const items: CollectionItem[] = [
     date: "  1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas  ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -28,7 +28,7 @@ const items: CollectionItem[] = [
     date: "  1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -38,7 +38,7 @@ const items: CollectionItem[] = [
     date: "c1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -48,7 +48,7 @@ const items: CollectionItem[] = [
     date: "  1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas  ",
-    dimensions: "107 × 76 cm",
+    dimensions: "107 x 76 cm",
     category: "Paintings",
   },
   {
@@ -58,7 +58,7 @@ const items: CollectionItem[] = [
     date: "1993",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -68,7 +68,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -78,7 +78,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -88,7 +88,7 @@ const items: CollectionItem[] = [
     date: "nd",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -98,7 +98,7 @@ const items: CollectionItem[] = [
     date: "1989",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -108,7 +108,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -118,7 +118,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -128,7 +128,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas ",
-    dimensions: "122 × 91 cm",
+    dimensions: "122 x 91 cm",
     category: "Paintings",
   },
   {
@@ -138,7 +138,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "122 × 91 cm (framed)",
+    dimensions: "122 x 91 cm (framed)",
     category: "Paintings",
   },
   {
@@ -148,7 +148,7 @@ const items: CollectionItem[] = [
     date: "1988",
     series: "Fields of Blood",
     medium: "acrylic on canvas   ",
-    dimensions: "91 × 122 cm",
+    dimensions: "91 x 122 cm",
     category: "Paintings",
   },
 ]
