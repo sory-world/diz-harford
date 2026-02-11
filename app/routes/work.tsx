@@ -6,6 +6,7 @@ import { useEffect } from "react"
 import { Page } from "~/components/Page/Page"
 import { PageNav } from "~/components/PageNav/PageNav"
 import { useLocation } from "react-router"
+import { useState } from "react"
 
 type LoaderData = {
   items: CollectionItem[][]
@@ -71,6 +72,7 @@ const toId = (s: string) =>
 
 export default function Work() {
   const { items } = useLoaderData() as LoaderData
+  const [urlHash, setUrlHash] = useState("")
   const location = useLocation()
 
   useEffect(() => {
@@ -78,6 +80,7 @@ export default function Work() {
     const id = decodeURIComponent(location.hash.slice(1))
     const el = document.getElementById(id)
     if (!el) return
+    setUrlHash(id)
 
     requestAnimationFrame(() => {
       el.scrollIntoView({ block: "start", behavior: "smooth" })
@@ -91,7 +94,11 @@ export default function Work() {
           {DATE_INCREMENTS.map((dateRange) => {
             const id = toId(dateRange.label)
             return (
-              <a key={id} href={`#${id}`}>
+              <a
+                key={id}
+                href={`#${id}`}
+                style={urlHash === id ? { textDecoration: "underline", fontWeight: 500 } : {}}
+              >
                 {dateRange.label}
               </a>
             )
