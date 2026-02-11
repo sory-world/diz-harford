@@ -6,8 +6,9 @@ import "./TopBar.css"
 
 const Links = ({ className, onNavigate }: { className: string; onNavigate?: () => void }) => (
   <nav className={className} aria-label="Primary">
-    <Link to="series">Series</Link>
-    <Link to="work">Work</Link>
+    <Link to="/">Home</Link>
+    <Link to="series">By Series</Link>
+    <Link to="work">By Year</Link>
     <Link to="about">About</Link>
     <Link to="contact">Contact</Link>
   </nav>
