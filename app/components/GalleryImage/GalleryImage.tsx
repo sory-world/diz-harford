@@ -34,16 +34,17 @@ export const GalleryImage = ({ item }: { item: CollectionItem }) => {
         )}
       </div>
       <div className="page-image__description">
-        <i>{item.title}</i>
-        <p>{item.date !== "nd" && item.date}</p>
-        <p>{item.medium}</p>
-        <p>{item.dimensions}</p>
-        {!isSeries && (
+        <b>{item.title}</b>
+        {/* TODO: portraits temporarily disabled */}
+        {!isSeries && item.series !== "Portraits" && (
           <Link
             style={{ textDecoration: "underline" }}
             to={`/series/${seriesTitleToSlug(item.series)}`}
           >{`${item.series}`}</Link>
         )}
+        <p>{item.date !== "nd" && item.date}</p>
+        <p>{item.medium}</p>
+        <p>{item.dimensions}</p>
       </div>
     </article>
   )
