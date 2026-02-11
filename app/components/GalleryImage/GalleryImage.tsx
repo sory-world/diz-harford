@@ -40,7 +40,9 @@ export const GalleryImage = ({ item }: { item: CollectionItem }) => {
           <Link
             style={{ textDecoration: "underline" }}
             to={`/series/${seriesTitleToSlug(item.series)}`}
-          >{`${item.series}`}</Link>
+          >
+            <i>{`${item.series}`}</i>
+          </Link>
         )}
         <p>{item.date !== "nd" && item.date}</p>
         <p>{item.medium}</p>
