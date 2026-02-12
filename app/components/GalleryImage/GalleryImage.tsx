@@ -1,5 +1,4 @@
 import { CollectionItem } from "~/types/CollectionItem"
-import "./GalleryImage.css"
 import { useLocation } from "react-router"
 import { Link } from "react-router"
 
@@ -14,10 +13,10 @@ const seriesTitleToSlug = (title: string) => {
     .join("-")
 }
 
-export const GalleryImage = ({ item }: { item: CollectionItem }) => {
+export const GalleryImage = ({ item, index }: { item: CollectionItem; index: number }) => {
   const { pathname } = useLocation()
   const isSeries = pathname.includes("series")
-
+  const isFirstImage = index === 0
   return (
     <article className="page-image__container">
       <div className="page-image__image-wrap">
@@ -26,7 +25,8 @@ export const GalleryImage = ({ item }: { item: CollectionItem }) => {
             className="page-image__image"
             src={imageUrl(item.fileName)}
             alt={item.title}
-            loading="lazy"
+            loading={isFirstImage ? undefined : "lazy"}
+            fetchPriority={isFirstImage ? "high" : "low"}
             decoding="async"
           />
         )}
