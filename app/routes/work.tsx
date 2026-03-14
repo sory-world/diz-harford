@@ -2,7 +2,7 @@ import { useLoaderData } from "react-router"
 import { PAINTINGS } from "../data/paintings.server"
 import type { CollectionItem } from "~/types/CollectionItem"
 import { GalleryView } from "~/components/GalleryView/GalleryView"
-import { useEffect } from "react"
+import { useEffect, useCallback } from "react"
 import { Page } from "~/components/Page/Page"
 import { PageNav } from "~/components/PageNav/PageNav"
 import { useLocation } from "react-router"
@@ -74,6 +74,9 @@ export default function Work() {
   const { items } = useLoaderData() as LoaderData
   const [urlHash, setUrlHash] = useState("")
   const location = useLocation()
+  const scrollToElement = useCallback((el: HTMLElement, smooth: boolean) => {
+    el.scrollIntoView({ block: "start", behavior: smooth ? "smooth" : "instant" })
+  }, [])
 
   useEffect(() => {
     if (!location.hash) return
@@ -82,10 +85,30 @@ export default function Work() {
     if (!el) return
     setUrlHash(id)
 
-    requestAnimationFrame(() => {
-      el.scrollIntoView({ block: "start", behavior: "smooth" })
-    })
-  }, [location.hash, items])
+    // Initial smooth scroll
+    scrollToElement(el, true)
+
+    // Cancel if scroll during smooth scroll animation
+    const cancelSmoothScroll = () => {
+      window.scrollTo({ top: window.scrollY })
+    }
+    window.addEventListener("wheel", cancelSmoothScroll, { passive: true, once: true })
+    window.addEventListener("touchmove", cancelSmoothScroll, { passive: true, once: true })
+
+    // After scroll settles check to correct for layout shift (lazy images loading and pushing content down)
+    const timeout = setTimeout(() => {
+      const rect = el.getBoundingClientRect()
+      if (Math.abs(rect.top) > 50) {
+        scrollToElement(el, false)
+      }
+    }, 800)
+
+    return () => {
+      clearTimeout(timeout)
+      window.removeEventListener("wheel", cancelSmoothScroll)
+      window.removeEventListener("touchmove", cancelSmoothScroll)
+    }
+  }, [location.hash, items, scrollToElement])
 
   return (
     <Page
