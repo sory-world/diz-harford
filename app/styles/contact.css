@@ -1,6 +1,7 @@
 .contact {
   display: flex;
   justify-content: flex-end;
+  padding: 1rem 0;
 
   .contact__content {
     max-width: 26rem;

@@ -2,7 +2,9 @@
   display: flex;
 
   .image {
-    height: min(75vh, 80vw * 1.5);
+    height: min(88vh, 80vw * 1.5);
     width: auto;
+    min-height: 400px;
+    min-width: 280px;
   }
 }

@@ -5,6 +5,7 @@ import { HomeImage } from "~/components/HomeImage/HomeImage"
 import { useEffect, useState } from "react"
 import "~/styles/home.css"
 type LoaderData = { items: CollectionItem[] }
+import { motion } from "motion/react"
 
 export async function loader(): Promise<LoaderData> {
   return { items: items }
@@ -23,8 +24,13 @@ export default function Index() {
   }
 
   return (
-    <main className="home">
+    <motion.main
+      className="home"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ duration: 0.4, ease: "easeInOut" }}
+    >
       <HomeImage item={image} />
-    </main>
+    </motion.main>
   )
 }

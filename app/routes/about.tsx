@@ -1,8 +1,14 @@
 import "~/styles/about.css"
+import { motion } from "motion/react"
 
 export default function About() {
   return (
-    <main className="about">
+    <motion.main
+      className="about"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ duration: 0.5, ease: "easeInOut" }}
+    >
       <div className="about__bio">
         <p>
           Diz Harford (1931–2016) was an Australian-born painter, etcher and sculptor who lived and
@@ -28,6 +34,6 @@ export default function About() {
         </p>
       </div>
       <img className="about__img" src="/assets/diz.webp"></img>
-    </main>
+    </motion.main>
   )
 }

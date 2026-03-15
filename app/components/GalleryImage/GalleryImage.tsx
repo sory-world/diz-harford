@@ -1,6 +1,7 @@
 import { CollectionItem } from "~/types/CollectionItem"
 import { useLocation } from "react-router"
 import { Link } from "react-router"
+import "./GalleryImage.css"
 
 function imageUrl(fileName: number) {
   return `/assets/${fileName}.webp`

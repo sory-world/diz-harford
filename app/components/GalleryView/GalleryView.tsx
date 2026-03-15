@@ -1,5 +1,6 @@
 import { CollectionItem } from "~/types/CollectionItem"
 import { GalleryImage } from "~/components/GalleryImage/GalleryImage"
+import { motion } from "motion/react"
 
 export const GalleryView = ({
   title,
@@ -11,10 +12,15 @@ export const GalleryView = ({
   showSeries?: boolean
 }) => {
   return (
-    <div className="gallery-view">
+    <motion.div
+      className="gallery-view"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ duration: 0.4, delay: 0.4, ease: "easeInOut" }}
+    >
       {title && <h3>{title}</h3>}
       <div className="gallery-view__content">
-        <ul style={{ listStyle: "none", padding: 0, display: "grid", gap: 16 }}>
+        <ul style={{ listStyle: "none", padding: 0, display: "grid", gap: 16, maxWidth: "80rem" }}>
           {items.map((item, i) => {
             // Do not render entries without images
             if (item.fileName === null) {
@@ -28,6 +34,6 @@ export const GalleryView = ({
           })}
         </ul>
       </div>
-    </div>
+    </motion.div>
   )
 }

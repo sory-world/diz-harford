@@ -1,9 +1,12 @@
 import { PageNav } from "~/components/PageNav/PageNav"
-import { Outlet } from "react-router"
+import { Outlet, useLocation } from "react-router"
 import { Page } from "~/components/Page/Page"
 import { Link } from "~/components/Link/Link"
+import { motion } from "motion/react"
 
 export default function Series() {
+  const location = useLocation()
+
   return (
     <main>
       <Page
@@ -25,7 +28,14 @@ export default function Series() {
           </PageNav>
         }
       >
-        <Outlet />
+        <motion.div
+          key={location.pathname}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 0.3 }}
+        >
+          <Outlet />
+        </motion.div>
       </Page>
     </main>
   )

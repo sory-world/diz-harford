@@ -1,8 +1,14 @@
 import "~/styles/contact.css"
+import { motion } from "motion/react"
 
 export default function Contact() {
   return (
-    <main className="contact">
+    <motion.main
+      className="contact"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ duration: 0.5, ease: "easeInOut" }}
+    >
       <div className="contact__content">
         <p>
           For enquiries relating to available works, exhibitions, loans, publications, or research,
@@ -12,6 +18,6 @@ export default function Contact() {
           dizharford@gmail.com
         </a>
       </div>
-    </main>
+    </motion.main>
   )
 }
